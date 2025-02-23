@@ -48,7 +48,7 @@ To develop an interactive Coffee Shop Sales Dashboard in excel that enables busi
 ### The Coffee Shop Sales Dashboard provides valuable insights into sales trends, product performance and customer behaviour. From the analysis the following key take aways emerged:
 1. Location Astoria
 * Highest overall sales with strong morning traffic (From 7AM to 10 AM) and a relative sale during the rest of the day
-- Best Selling Products: 
+-** Best Selling Products:** 
 - Barista Espresso
 - Brewed Chai tea
 - Gourmet brewed coffee
