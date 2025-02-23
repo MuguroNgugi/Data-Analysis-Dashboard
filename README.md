@@ -48,42 +48,12 @@ To develop an interactive Coffee Shop Sales Dashboard in excel that enables busi
 ### The Coffee Shop Sales Dashboard provides valuable insights into sales trends, product performance and customer behaviour. From the analysis the following key take aways emerged:
 1. Location Astoria
 * Highest overall sales with strong morning traffic (From 7AM to 10 AM) and a relative sale during the rest of the day
--** Best Selling Products:** 
-- Barista Espresso
-- Brewed Chai tea
-- Gourmet brewed coffee
-- Hot chocolate
-- rewed Black tea
-- Brewed herbal tea
-- Scone
-- Organic brewed coffee
-- Drip coffee
-- Premium brewed coffee
-- Pastry
-- Brewed Green tea
-- Biscotti
-- Regular syrup
-- Sugar free syrup
-- Sales Trend: Weekdays sales are higher suggesting a strong office worker customer base
+* Best Selling Products (Top 3):Barista Espresso, Brewed Chai tea, Gourmet brewed coffee
+* Sales Trend: Weekdays sales are higher suggesting a strong office worker customer base
 
 2. Location Hell ‘Kitchen
 * High sale volume during morning hours (From 8 AM TO 10 AM) and a moderate sale volume during the day.
-** Best-Selling Products: 
-** Barista Espresso
-** Brewed Chai tea
-** Gourmet brewed coffee
-** Hot chocolate
-** Brewed Black tea
-** Brewed herbal tea
-** Scone
-** Organic brewed coffee
-** Drip coffee
-** Premium brewed coffee
-** Pastry
-** Brewed Green tea
-** Biscotti
-** Regular syrup
-** Sugar free syrup
+* Best-Selling Products (Top 3): Barista Espresso, Brewed Chai tea, Gourmet brewed coffee
 * Sales Trend: Poor sales volume on Saturday
 
 
