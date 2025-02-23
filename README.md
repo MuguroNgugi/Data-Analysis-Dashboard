@@ -31,10 +31,28 @@ To develop an interactive Coffee Shop Sales Dashboard in excel that enables busi
 
 ## Dashboard Screenshot
 - <a href = "https://github.com/MuguroNgugi/Data-Analysis-Dashboard/blob/main/Dashboard%20Screenshot%20for%20coffee%20shop%20sale.png"> Dashboard Screenshot </a>
+![Dashboard Screenshot for coffee shop sale](https://github.com/user-attachments/assets/1544c92c-c451-47f1-83a7-3716f4a5b451)
+
 
 ## Tech Stack
 * Microsoft Excel (Pivot Tables, Charts)
 * Data Visualization (Excel Dashboards)
+
+## How To Use
+1. Open the Excel File and navigate to the dashboard sheet
+2. Use slicer to analyze sales by location (SELECT LOCATION)
+3. View Charts to gain insights into the business performance
+4. Use the insights to optimize sales and improve operations
+
+## Conclusion for Coffee Shop Sales Analysis
+### The Coffee Shop Sales Dashboard provides valuable insights into sales trends, product performance and customer behaviour. From the analysis the following key take aways emerged:
+#### Sales Trend
+1. Location Astoria
+* Highest overall sales with strong morning traffic (From 7AM to 10 AM) and a relative sale during the rest of the day
+* Best Selling Products: Brewed Chai Tea, Gourmet brewed coffee
+* Sales Trend: Weekdays sales are higher suggesting a strong office worker customer base
+
+
 
 
 
