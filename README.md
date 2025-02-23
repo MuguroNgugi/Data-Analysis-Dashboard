@@ -7,3 +7,5 @@ To develop an interactive Coffee Shop Sales Dashboard in excel that enables busi
 * Monitor revenue performance
 * Provide actionable insights through interactives visualizations for better decision making
 
+## Dataset Used
+- <a href = "https://github.com/MuguroNgugi/Data-Analysis-Dashboard/blob/main/Coffee%20Shop%20Sales.xlsx"> Dataset </a>
