@@ -56,6 +56,21 @@ To develop an interactive Coffee Shop Sales Dashboard in excel that enables busi
 * Best-Selling Products (Top 3): Barista Espresso, Brewed Chai tea, Gourmet brewed coffee
 * Sales Trend: Poor sales volume on Saturday
 
+3. Location Lower Manhantan 
+* High sale volume during morning hours (From 7 AM TO 10 AM) and a moderate sale volume during the day.
+* Best-Selling Products (Top 3): Barista Espresso, Gourmet brewed coffee, Brewed Chai tea
+* Sales Trend: Poor sales volumes midweek and weekends
+
+## Recommendations
+1. Increase promotions and discounts during low-sales periods to boost sales
+2. Introduce royalty programs to enhance customer retention
+3. Focus on marketing efforts to increase brand awareness and customer royalty 
+4. Optimize pricing strategies
+
+## Contributing
+Feel free to fork this repository, make improvements, and submit a pull request
+
+
 
 
 
