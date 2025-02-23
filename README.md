@@ -29,4 +29,14 @@ To develop an interactive Coffee Shop Sales Dashboard in excel that enables busi
 2. Do certain days or times attract more customers?
 * KPI: Transaction by Hour of Day
 
+## Dashboard Screenshot
+- <a href = "https://github.com/MuguroNgugi/Data-Analysis-Dashboard/blob/main/Dashboard%20Screenshot%20for%20coffee%20shop%20sale.png"> Dashboard Screenshot </a>
+
+## Tech Stack
+* Microsoft Excel (Pivot Tables, Charts)
+* Data Visualization (Excel Dashboards)
+
+
+
+
 
