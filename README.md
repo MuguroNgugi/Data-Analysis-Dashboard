@@ -9,3 +9,11 @@ To develop an interactive Coffee Shop Sales Dashboard in excel that enables busi
 
 ## Dataset Used
 - <a href = "https://github.com/MuguroNgugi/Data-Analysis-Dashboard/blob/main/Coffee%20Shop%20Sales.xlsx"> Dataset </a>
+
+## Key Questions and KPIs
+### Sales Performance Analysis
+1. How are total sales trending over time? 
+* KPI: Total revenue, Sales Growth Rate, Average Daily Sales 
+2. What are the pick sales period (Hourly, Days, Monthly)
+* KPI: Sales by Day/Month/Peak Hours
+
